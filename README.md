@@ -7,7 +7,7 @@ I am working on a Epic Proportions Lucky Block, and I would like for you to add 
 * Custom drops for [Epic Proportions Season 9](https://www.youtube.com/watch?v=Oet39ZAl7iY)
 * Custom Crafing Recipe
 * [Custom Texture](https://github.com/jtrent238/Epic-Proportions-Lucky-Block/blob/gh-pages/texture.gif) for [Epic Proportions Season 9](https://www.youtube.com/watch?v=Oet39ZAl7iY)
-* 
+* [Demo Video](https://youtu.be/yzr_KPA2gso?t=3m9s) (Starts at 3:09)
 
 ## FAQ?
 * Q:How much time has been put in this Custom Lucky Block?
