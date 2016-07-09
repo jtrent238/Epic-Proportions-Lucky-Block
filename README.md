@@ -20,3 +20,5 @@ I am working on a Epic Proportions Lucky Block, and I would like for you to add 
   * A: Yes, They are unchanged.
 * Q:Can I use this in my modpack?
   * A:Yes, Private packs *ONLY*.
+* Q:How do I submit an Issue?
+  * A: Click [Issues](https://github.com/jtrent238/Epic-Proportions-Lucky-Block/issues) and submit me the [GameOutput](), because it tells me what drop crashed the game.
