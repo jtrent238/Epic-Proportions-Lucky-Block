@@ -1,0 +1,1000 @@
+blockGlassWhite : 1xtile.stainedGlass@0
+paneGlassWhite : 1xtile.thinStainedGlass@0
+itemSkull : 1xitem.headcrumbs.head@32767
+itemSkull : 1xitem.skull@32767
+skullPlayer : 1xitem.headcrumbs.head@0
+skullPlayer : 1xitem.skull@3
+skullBlaze : 1xitem.headcrumbs.head@1
+skullEnderman : 1xitem.headcrumbs.head@2
+skullPigman : 1xitem.headcrumbs.head@3
+skullSpider : 1xitem.headcrumbs.head@4
+skullCaveSpider : 1xitem.headcrumbs.head@5
+skullPig : 1xitem.headcrumbs.head@6
+skullCow : 1xitem.headcrumbs.head@7
+skullMooshroom : 1xitem.headcrumbs.head@8
+skullSheep : 1xitem.headcrumbs.head@9
+skullWolf : 1xitem.headcrumbs.head@10
+skullVillager : 1xitem.headcrumbs.head@11
+skullChicken : 1xitem.headcrumbs.head@12
+skullWitch : 1xitem.headcrumbs.head@13
+skullZombieVillager : 1xitem.headcrumbs.head@14
+skullIronGolem : 1xitem.headcrumbs.head@15
+skullSquid : 1xitem.headcrumbs.head@16
+skullWither : 1xitem.headcrumbs.head@17
+skullBunnyDutch : 1xitem.headcrumbs.head@18
+skullPenguin : 1xitem.headcrumbs.head@19
+skullBighorn : 1xitem.headcrumbs.head@20
+skullWildDeer : 1xitem.headcrumbs.head@21
+skullWildBoar : 1xitem.headcrumbs.head@22
+skullRedcap : 1xitem.headcrumbs.head@23
+skullDruid : 1xitem.headcrumbs.head@24
+skullHedgeSpider : 1xitem.headcrumbs.head@25
+skullGhast : 1xitem.headcrumbs.head@26
+skullBlizz : 1xitem.headcrumbs.head@27
+skullMistWolf : 1xitem.headcrumbs.head@28
+skullMiniGhast : 1xitem.headcrumbs.head@29
+skullGuardGhast : 1xitem.headcrumbs.head@30
+skullKingSpider : 1xitem.headcrumbs.head@31
+skullKobold : 1xitem.headcrumbs.head@32
+skullSlimeBeetle : 1xitem.headcrumbs.head@33
+skullFireBeetle : 1xitem.headcrumbs.head@34
+skullPinchBeetle : 1xitem.headcrumbs.head@35
+skullTowerGolem : 1xitem.headcrumbs.head@36
+skullEnderDragon : 1xitem.headcrumbs.head@37
+skullHostileWolf : 1xitem.headcrumbs.head@38
+skullBunnyBrown : 1xitem.headcrumbs.head@39
+skullBunnyWhite : 1xitem.headcrumbs.head@40
+skullSquirrel : 1xitem.headcrumbs.head@41
+skullOcelot : 1xitem.headcrumbs.head@42
+skullOcelotBlack : 1xitem.headcrumbs.head@43
+skullOcelotRed : 1xitem.headcrumbs.head@44
+skullOcelotSiamese : 1xitem.headcrumbs.head@45
+skullBat : 1xitem.headcrumbs.head@46
+skullSlime : 1xitem.headcrumbs.head@47
+skullMagmaCube : 1xitem.headcrumbs.head@48
+skullHorseBlack : 1xitem.headcrumbs.head@49
+skullHorseBrown : 1xitem.headcrumbs.head@50
+skullHorseChestnut : 1xitem.headcrumbs.head@51
+skullHorseCreamy : 1xitem.headcrumbs.head@52
+skullHorseDarkBrown : 1xitem.headcrumbs.head@53
+skullHorseGrey : 1xitem.headcrumbs.head@54
+skullHorseWhite : 1xitem.headcrumbs.head@55
+skullDonkey : 1xitem.headcrumbs.head@56
+skullMule : 1xitem.headcrumbs.head@57
+skullHorseUndead : 1xitem.headcrumbs.head@58
+skullHorseSkeleton : 1xitem.headcrumbs.head@59
+skullSnowMan : 1xitem.headcrumbs.head@60
+skullSilverfish : 1xitem.headcrumbs.head@61
+skullSwarmSpider : 1xitem.headcrumbs.head@62
+skullTowerBroodling : 1xitem.headcrumbs.head@63
+skullWinterWolf : 1xitem.headcrumbs.head@64
+skullMazeSlime : 1xitem.headcrumbs.head@65
+skullTowerwoodBorer : 1xitem.headcrumbs.head@66
+skullImp : 1xitem.headcrumbs.head@67
+skullNitroCreeper : 1xitem.headcrumbs.head@68
+skullHeatscarSpider : 1xitem.headcrumbs.head@69
+skullAngryZombie : 1xitem.headcrumbs.head@70
+skullFireBat : 1xitem.headcrumbs.head@71
+skullThaumicSlime : 1xitem.headcrumbs.head@72
+skullTaintedChicken : 1xitem.headcrumbs.head@73
+skullTaintedCow : 1xitem.headcrumbs.head@74
+skullTaintedPig : 1xitem.headcrumbs.head@75
+skullTaintedCreeper : 1xitem.headcrumbs.head@76
+skullTaintedVillager : 1xitem.headcrumbs.head@77
+skullTaintedSheep : 1xitem.headcrumbs.head@78
+skullPech : 1xitem.headcrumbs.head@79
+skullEldritchGuardian : 1xitem.headcrumbs.head@80
+skullLycanites : 1xitem.headcrumbs.head@81
+skullPinky : 1xitem.headcrumbs.head@82
+skullBehemoth : 1xitem.headcrumbs.head@83
+skullBelph : 1xitem.headcrumbs.head@84
+skullConcussionCreeper : 1xitem.headcrumbs.head@85
+skullEnderminy : 1xitem.headcrumbs.head@86
+skullFallenKnight : 1xitem.headcrumbs.head@87
+skullWitherWitch : 1xitem.headcrumbs.head@88
+skullDireWolf : 1xitem.headcrumbs.head@89
+skullWitherCat : 1xitem.headcrumbs.head@90
+skullRocketCreeper : 1xitem.headcrumbs.head@91
+skullFestiveCreeper : 1xitem.headcrumbs.head@92
+skullSupportCreeper : 1xitem.headcrumbs.head@93
+skullLostMiner : 1xitem.headcrumbs.head@94
+skullSheepman : 1xitem.headcrumbs.head@95
+skullSummoner : 1xitem.headcrumbs.head@96
+skullBlazingJuggernaut : 1xitem.headcrumbs.head@97
+skullLilyLurker : 1xitem.headcrumbs.head@98
+skullMotherSpider : 1xitem.headcrumbs.head@99
+skullBabySpider : 1xitem.headcrumbs.head@100
+skullSkeletonWarrior : 1xitem.headcrumbs.head@101
+skullBrainSlime : 1xitem.headcrumbs.head@102
+skullAnubis : 1xitem.headcrumbs.head@103
+skullBanshee : 1xitem.headcrumbs.head@104
+skullBaphomet : 1xitem.headcrumbs.head@105
+skullCentaur : 1xitem.headcrumbs.head@106
+skullCobbleGolem : 1xitem.headcrumbs.head@107
+skullCobblestoneGolem : 1xitem.headcrumbs.head@108
+skullCockatrice : 1xitem.headcrumbs.head@109
+skullCyclops : 1xitem.headcrumbs.head@110
+skullDhampir : 1xitem.headcrumbs.head@111
+skullDryad : 1xitem.headcrumbs.head@112
+skullDullahan : 1xitem.headcrumbs.head@113
+skullEnderDragonGirl : 1xitem.headcrumbs.head@114
+skullEnderEye : 1xitem.headcrumbs.head@115
+skullFleshLich : 1xitem.headcrumbs.head@116
+skullFutakuchiOnna : 1xitem.headcrumbs.head@117
+skullGryphon : 1xitem.headcrumbs.head@118
+skullHarpy : 1xitem.headcrumbs.head@119
+skullHunter : 1xitem.headcrumbs.head@120
+skullJorogumo : 1xitem.headcrumbs.head@121
+skullMandragora : 1xitem.headcrumbs.head@122
+skullMermaid : 1xitem.headcrumbs.head@123
+skullMimic : 1xitem.headcrumbs.head@124
+skullMinotaur : 1xitem.headcrumbs.head@125
+skullMinotaurus : 1xitem.headcrumbs.head@126
+skullNaga : 1xitem.headcrumbs.head@127
+skullNineTails : 1xitem.headcrumbs.head@128
+skullSahuagin : 1xitem.headcrumbs.head@129
+skullSatyr : 1xitem.headcrumbs.head@130
+skullSelkie : 1xitem.headcrumbs.head@131
+skullShaman : 1xitem.headcrumbs.head@132
+skullSharko : 1xitem.headcrumbs.head@133
+skullSiren : 1xitem.headcrumbs.head@134
+skullSludgeGirl : 1xitem.headcrumbs.head@135
+skullSphinx : 1xitem.headcrumbs.head@136
+skullSpriggan : 1xitem.headcrumbs.head@137
+skullSuccubus : 1xitem.headcrumbs.head@138
+skullButler : 1xitem.headcrumbs.head@139
+skullSwamper : 1xitem.headcrumbs.head@140
+skullValkyrie : 1xitem.headcrumbs.head@141
+skullVampire : 1xitem.headcrumbs.head@142
+skullWerecat : 1xitem.headcrumbs.head@143
+skullGogWitch : 1xitem.headcrumbs.head@144
+skullWitherCow : 1xitem.headcrumbs.head@145
+skullYeti : 1xitem.headcrumbs.head@146
+skullYukiOnna : 1xitem.headcrumbs.head@147
+skullCultist : 1xitem.headcrumbs.head@148
+skullEldritchCrab : 1xitem.headcrumbs.head@149
+skullFireCreeper : 1xitem.headcrumbs.head@150
+skullWaterCreeper : 1xitem.headcrumbs.head@151
+skullElectricCreeper : 1xitem.headcrumbs.head@152
+skullGhostCreeper : 1xitem.headcrumbs.head@153
+skullCookieCreeper : 1xitem.headcrumbs.head@154
+skullDarkCreeper : 1xitem.headcrumbs.head@155
+skullLightCreeper : 1xitem.headcrumbs.head@156
+skullEarthCreeper : 1xitem.headcrumbs.head@157
+skullMagmaCreeper : 1xitem.headcrumbs.head@158
+skullReverseCreeper : 1xitem.headcrumbs.head@159
+skullIceCreeper : 1xitem.headcrumbs.head@160
+skullFriendlyCreeper : 1xitem.headcrumbs.head@161
+skullIllusionCreeper : 1xitem.headcrumbs.head@162
+skullPsychicCreeper : 1xitem.headcrumbs.head@163
+skullSpiderCreeper : 1xitem.headcrumbs.head@164
+skullWindCreeper : 1xitem.headcrumbs.head@165
+skullHydrogenCreeper : 1xitem.headcrumbs.head@166
+skullEnderCreeper : 1xitem.headcrumbs.head@167
+skullStoneCreeper : 1xitem.headcrumbs.head@168
+skullSolarCreeper : 1xitem.headcrumbs.head@169
+skullCakeCreeper : 1xitem.headcrumbs.head@170
+skullFireworkCreeper : 1xitem.headcrumbs.head@171
+skullSpringCreeper : 1xitem.headcrumbs.head@172
+skullLaserCreeper : 1xitem.headcrumbs.head@173
+skullRoboDino : 1xitem.headcrumbs.head@174
+skullJetPackSpider : 1xitem.headcrumbs.head@175
+skullEndermite : 1xitem.headcrumbs.head@176
+skullGuardian : 1xitem.headcrumbs.head@177
+skullGuardianElder : 1xitem.headcrumbs.head@178
+skullShulker : 1xitem.headcrumbs.head@179
+skullRabbitBlack : 1xitem.headcrumbs.head@180
+skullRabbitBrown : 1xitem.headcrumbs.head@181
+skullRabbitGold : 1xitem.headcrumbs.head@182
+skullRabbitSalt : 1xitem.headcrumbs.head@183
+skullRabbitToast : 1xitem.headcrumbs.head@184
+skullRabbitSplotched : 1xitem.headcrumbs.head@185
+skullRabbitWhite : 1xitem.headcrumbs.head@186
+skullHydra : 1xitem.headcrumbs.head@187
+skullNagaTF : 1xitem.headcrumbs.head@188
+skullLich : 1xitem.headcrumbs.head@189
+skullSnowQueen : 1xitem.headcrumbs.head@190
+skullUrGhast : 1xitem.headcrumbs.head@191
+skullBlitz : 1xitem.headcrumbs.head@192
+skullBasalz : 1xitem.headcrumbs.head@193
+skullSkeleton : 1xitem.skull@0
+skullWitherSkeleton : 1xitem.skull@1
+skullZombie : 1xitem.skull@2
+skullCreeper : 1xitem.skull@4
+nuggetIron : 1xitem.ironNugget@0
+nuggetCoal : 1xitem.coalNugget@0
+nuggetDiamond : 1xitem.diamondNugget@0
+nuggetEmerald : 1xitem.emeraldNugget@0
+nuggetObsidian : 1xitem.obsidianNugget@0
+nuggetLapis : 1xitem.lapisNugget@0
+nuggetEnder : 1xitem.enderNugget@0
+mobEgg : 1xitem.headcrumbs.egg@0
+[21:30:37] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 44 mods
+[21:30:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Dungeon Pack, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Animated Player Mod, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Arcana RPG, FMLFileResourcePack:Backpack, FMLFileResourcePack:BackTools, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:Custom Pets, FMLFileResourcePack:Elemental Witch Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Â§eEpic Proportions Lucky Block, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Extreme Farming, FMLFileResourcePack:Familiars API, FMLFileResourcePack:Grim3212 Core, FMLFileResourcePack:Hats, FMLFileResourcePack:Headcrumbs, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:LLibrary, FMLFileResourcePack:Loot Bags, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:MobAmputation, FMLFileResourcePack:MobDismemberment, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mutant Creatures, FMLFileResourcePack:ObsCore, FMLFileResourcePack:ObsTrophies, FMLFileResourcePack:Pandora's Box, FMLFileResourcePack:Pokeball, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:Waila, FMLFileResourcePack:Youtubers+ Mod, FMLFileResourcePack:bspkrsCore
+[21:30:41] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[21:30:45] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[21:30:45] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:30:45] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[21:30:46] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[21:30:46] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:30:46] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:30:46] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[21:30:46] [Thread-19/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[21:30:46] [Thread-19/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:30:46] [Thread-19/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[21:30:46] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[21:30:46] [Sound Library Loader/INFO]: Sound engine started
+[21:30:47] [Client thread/ERROR] [FML]: A critical error occurred instantiating the gui factory for mod mwaw
+java.lang.ClassNotFoundException: com.hoopawolf.mwaw.gui.GUIConfigFactory
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_25]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_25]
+	at cpw.mods.fml.common.ModClassLoader.loadClass(ModClassLoader.java:58) ~[ModClassLoader.class:?]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_25]
+	at java.lang.Class.forName(Class.java:344) ~[?:1.8.0_25]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:339) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.ilexiconn.llibrary.common.asm.HookPatchManager.createClassFromByteArray(HookPatchManager.java:120) ~[HookPatchManager.class:?]
+	at net.ilexiconn.llibrary.common.asm.HookPatchManager.transform(HookPatchManager.java:19) ~[HookPatchManager.class:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	... 15 more
+[21:30:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[21:30:47] [Client thread/ERROR]: @ Post startup
+[21:30:47] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[21:30:47] [Client thread/INFO] [bspkrsCore]: Enabling Main Menu Mob render ticker
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: The following texture errors were found.
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   DOMAIN gibby_dungeons
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: --------------------------------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   domain gibby_dungeons is missing 3 textures
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     domain gibby_dungeons has 1 location:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       mod gibby_dungeons resources at C:\Users\trent\AppData\Roaming\.minecraft.EpicProportions\mods\Arcana RPG 1.7.10-1.4.1.jar
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     The missing resources for domain gibby_dungeons are:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/exawdusSmasher.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/blocks/magitableon_eye.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/sunaxe.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     No other errors exist for domain gibby_dungeons
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   DOMAIN youtubers
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: --------------------------------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   domain youtubers is missing 12 textures
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     domain youtubers has 1 location:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       mod youtubers resources at C:\Users\trent\AppData\Roaming\.minecraft.EpicProportions\mods\youtubers-1.8.0-MC1.7.10.jar
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     The missing resources for domain youtubers are:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/BrownGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/YellowGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/LightGrayGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/MagentaGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/BlackGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/EpicPreportionssword.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/PurpleGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/WhiteGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/CyanGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/LightBlueGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/LimeGem.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/crazycraftsword.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     No other errors exist for domain youtubers
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   DOMAIN minecraft
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: --------------------------------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   domain minecraft is missing 4 textures
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     domain minecraft has 2 locations:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       mod cfm resources at C:\Users\trent\AppData\Roaming\.minecraft.EpicProportions\mods\MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     The missing resources for domain minecraft are:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/MISSING_ICON_ITEM_6082_chamonix.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/MISSING_ICON_ITEM_6522_CluckTool.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/MISSING_ICON_ITEM_6083_brangle.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/MISSING_ICON_ITEM_6084_twistox.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     No other errors exist for domain minecraft
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   DOMAIN chocolatequest
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: --------------------------------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:   domain chocolatequest is missing 1 texture
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     domain chocolatequest has 1 location:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       mod chocolateQuest resources at C:\Users\trent\AppData\Roaming\.minecraft.EpicProportions\mods\chocolateQuest-1.7.10-1.1d.jar
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     The missing resources for domain chocolatequest are:
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/backpack.png
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]:     No other errors exist for domain chocolatequest
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
+[21:30:47] [Client thread/ERROR] [TEXTURE ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[21:30:48] [Client thread/INFO] [STDOUT]: [com.supercat765.Youtubers.YTEventHandler:EntityConstructingEvent:53]: [EXT PROPS] Extended properties registered successfully.
+[21:30:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[21:30:48] [Client thread/ERROR]: @ Post render
+[21:30:48] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[21:31:01] [Client thread/INFO] [bspkrsCore]: Disabling Main Menu Mob render ticker
+[21:31:18] [Client thread/INFO] [bspkrsCore]: Enabling Main Menu Mob render ticker
+[21:31:18] [Client thread/INFO] [STDOUT]: [com.supercat765.Youtubers.YTEventHandler:EntityConstructingEvent:53]: [EXT PROPS] Extended properties registered successfully.
+[21:31:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[21:31:18] [Client thread/ERROR]: @ Post render
+[21:31:18] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[21:31:19] [Client thread/INFO] [bspkrsCore]: Disabling Main Menu Mob render ticker
+[21:31:21] [Client thread/INFO] [bspkrsCore]: Enabling Main Menu Mob render ticker
+[21:31:24] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:31:24] [Server thread/INFO]: Generating keypair
+[21:31:24] [Server thread/INFO] [FML]: Injecting existing block and item data into this server instance
+[21:31:24] [Server thread/INFO] [FML]: Applying holder lookups
+[21:31:24] [Server thread/INFO] [FML]: Holder lookups applied
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 0 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension -22 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 34 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 33 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 32 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 31 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 30 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 29 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:25] [Server thread/INFO] [FML]: Loading dimension 28 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 27 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 26 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 25 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 24 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 23 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 22 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 21 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension -1 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 20 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 19 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:26] [Server thread/INFO] [FML]: Loading dimension 18 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 17 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 16 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 15 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 14 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 13 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 12 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 11 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 10 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 9 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension -15 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension -20 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension 1 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO] [FML]: Loading dimension -21 (TEST) (net.minecraft.server.integrated.IntegratedServer@34a55e)
+[21:31:27] [Server thread/INFO]: Preparing start region for level 0
+[21:31:28] [Server thread/INFO]: Preparing spawn area: 23%
+[21:31:29] [Server thread/INFO]: Preparing spawn area: 50%
+[21:31:30] [Server thread/INFO]: Preparing spawn area: 83%
+[21:31:33] [Server thread/INFO]: Changing view distance to 2, from 10
+[21:31:33] [Client thread/INFO] [bspkrsCore]: Disabling Main Menu Mob render ticker
+[21:31:34] [Server thread/INFO] [battlegear2]: M&B - Patching Class ItemInWorldManager (mx)
+[21:31:34] [Server thread/INFO] [battlegear2]: 	Patching method tryUseItem in ItemInWorldManager
+[21:31:34] [Server thread/INFO] [battlegear2]: M&B - Patching Class ItemInWorldManager done
+[21:31:35] [Client thread/INFO] [battlegear2]: M&B - Patching Class NetHandlerPlayClient (bjb)
+[21:31:35] [Client thread/INFO] [battlegear2]: 	Patching method handleSpawnPlayer in NetHandlerPlayClient
+[21:31:35] [Client thread/INFO] [battlegear2]: 	Patching method handleHeldItemChange in NetHandlerPlayClient
+[21:31:35] [Client thread/INFO] [battlegear2]: M&B - Patching Class NetHandlerPlayClient done
+[21:31:35] [Server thread/INFO] [STDOUT]: [com.supercat765.Youtubers.YTEventHandler:EntityConstructingEvent:53]: [EXT PROPS] Extended properties registered successfully.
+[21:31:35] [Netty IO #1/INFO] [malisiscore]: Found hooks for net.minecraft.network.NetHandlerPlayServer (nh)
+[21:31:35] [Netty IO #1/INFO] [battlegear2]: M&B - Patching Class NetHandlerPlayServer (nh)
+[21:31:35] [Netty IO #1/INFO] [battlegear2]: 	Patching method processPlayerBlockPlacement in NetHandlerPlayServer
+[21:31:35] [Netty IO #1/INFO] [battlegear2]: 	Patching method processHeldItemChange in NetHandlerPlayServer
+[21:31:35] [Netty IO #1/INFO] [battlegear2]: M&B - Patching Class NetHandlerPlayServer done
+[21:31:35] [Netty Client IO #0/INFO] [FML]: Server protocol version 2
+[21:31:35] [Netty IO #1/INFO] [FML]: Client protocol version 2
+[21:31:35] [Netty IO #1/INFO] [FML]: Client attempting to join with 44 mods : gibby_dungeons@1.4,lucky@5.1.0,InfernalMobs@1.6.0,malisiscore@1.7.10-0.14.3,NotEnoughItems@1.0.5.118,Waila@1.5.3,Forge@10.13.4.1614,battlegear2@1.7.10,FamiliarsAPI@1.7.10,iChunUtil@4.2.2,obscore@1.3.3,CodeChickenCore@1.0.7.47,mwaw@1.7.10-0.0.1,AnimationAPI@1.2.4,golems@1.20,rftl@1.7.10,bspkrsCore@6.16,grim3212core@V0.2 - 1.7.10,mcp@9.05,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.0,chocolateQuest@1.0,lootbags@2.0.12,youtubers@1.8.0,MutantCreatures@1.4.7,FML@7.10.99.99,pandorasbox@2.0.1,llibrary@0.7.2,animatedplayer@1.5.1,cfm@3.4.7,CustomPets@1.0.5,MobDismemberment@4.0.0,nevermine@2.5,Backpack@2.0.0,MobAmputation@4.0.0,pokeball@V0.1 - 1.7.10,carystanley_extremefarming@1.0,malisisdoors@1.7.10-1.13.2,dungeonpack@1.7.10-1.0,Hats@4.0.1,obstrophiesaoa@1.4.0,headcrumbs@1.7.4,eplus@3.0.2-d,BackTools@4.0.0
+[21:31:35] [Netty IO #1/INFO] [FML]: Attempting connection with missing mods [] at CLIENT
+[21:31:35] [Netty Client IO #0/INFO] [FML]: Attempting connection with missing mods [] at SERVER
+[21:31:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:31:35] [Server thread/INFO] [STDOUT]: [com.gibby.dungeon.DungeonsExtendedPlayer:loadNBTData:88]: [TUT PROPS] Mana from NBT: 0/20
+[21:31:35] [Client thread/INFO] [FML]: [Client thread] Client side modded connection established
+[21:31:36] [Server thread/INFO]: jtrent238[local:E:476bb6ec] logged in with entity id 80 at (220839.27464355814, 237.0, 12955.5931308259)
+[21:31:36] [Server thread/INFO]: jtrent238 joined the game
+[21:31:36] [Client thread/INFO] [STDOUT]: [com.supercat765.Youtubers.YTEventHandler:EntityConstructingEvent:53]: [EXT PROPS] Extended properties registered successfully.
+[21:31:37] [Server thread/INFO] [STDOUT]: [net.nevermine.assist.UpdateChecker:getWiki:43]: Wiki is online.
+[21:31:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5114ms behind, skipping 102 tick(s)
+[21:31:41] [Client thread/INFO]: [CHAT] Damage Indicators was unable to check for updates!
+[21:31:43] [Server thread/INFO]: Saving and pausing game...
+[21:31:43] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[21:31:43] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[21:31:43] [Server thread/INFO]: Saving chunks for level 'TEST'/The End
+[21:31:43] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystallium Plains
+[21:31:43] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionShyrelands
+[21:31:43] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPlaytopia
+[21:31:43] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEthereus
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEverland
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionImmortallis
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCreeponia
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCandyland
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCrystevia
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCeleve
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAncientCavern
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLelyetia
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLabricon
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBarathos
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionRunandor
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionVoxponds
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBorean
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDustopia
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGreckon
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGardencia
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDeeplands
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLunalus
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionIromine
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionMysterium
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPrecasia
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionHaven
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAbyss
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystalium Dimension
+[21:31:44] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:31:46] [Client thread/INFO]: [CHAT] codechickencore.update
+[21:32:03] [Client thread/INFO]: [CHAT] §bThank you for downloading MrCrayfish's Furniture Mod.
+[21:32:03] [Client thread/INFO]: [CHAT] Make sure you check out the wiki! http://mrcrayfishs-furniture-mod.wikia.com/
+Jul 08, 2016 9:32:03 PM mcp.mobius.waila.network.Message0x00ServerPing channelRead0
+INFO: Received server authentication msg. Remote sync will be activated
+[21:32:05] [Server thread/INFO]: Saving and pausing game...
+[21:32:05] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[21:32:05] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[21:32:05] [Server thread/INFO]: Saving chunks for level 'TEST'/The End
+[21:32:05] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystallium Plains
+[21:32:05] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionShyrelands
+[21:32:05] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPlaytopia
+[21:32:05] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEthereus
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEverland
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionImmortallis
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCreeponia
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCandyland
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCrystevia
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCeleve
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAncientCavern
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLelyetia
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLabricon
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBarathos
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionRunandor
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionVoxponds
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBorean
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDustopia
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGreckon
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGardencia
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDeeplands
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLunalus
+[21:32:06] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionIromine
+[21:32:07] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionMysterium
+[21:32:07] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPrecasia
+[21:32:07] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionHaven
+[21:32:07] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAbyss
+[21:32:07] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:32:07] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystalium Dimension
+[21:32:07] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:32:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2095ms behind, skipping 41 tick(s)
+[21:32:13] [Client thread/INFO] [iChunUtil]: [4.2.2] [NEW UPDATE AVAILABLE] MobAmputation - 4.0.1
+[21:32:36] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=message,ID=#aHerobrine joined the game
+[21:32:36] [Server thread/INFO]: §aHerobrine joined the game
+[21:32:36] [Client thread/INFO]: [CHAT] §aHerobrine joined the game
+[21:32:37] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=nevermine.Kranky,posY='#'bPosY+7,amount=20)"]))
+[21:32:37] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[21:32:37] [Server thread/INFO]: [@: Given [§6Gold Coin] * 1 to jtrent238]
+[21:32:37] [Client thread/INFO]: [CHAT] A wishing well? Maybe you should throw in a coin...
+[21:32:39] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:StormRune
+[21:32:40] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:TotemFroster
+[21:32:41] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName gold_nugget 1 0 {display:{Name:\"#6Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#eYour wish came true! (If you like potatoes)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=potato,amount=128,posY='#'bPosY+10,scatterOffset=2-2;ID=baked_potato,amount=64,posY='#'bPosY+10,scatterOffset=2-2;ID=poisonous_potato,amount=32,posY='#'bPosY+10,scatterOffset=2-2)"]))
+[21:32:41] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[21:32:41] [Server thread/INFO]: [@: Given [§6Coin] * 1 to jtrent238]
+[21:32:41] [Client thread/INFO]: [CHAT] A wishing well? Maybe you should throw in a coin...
+[21:32:41] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=message,ID="§eYour wish came true! (If you like potatoes)";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;ID=potato,amount=128,posY=#bPosY+10,scatterOffset=2-2;ID=baked_potato,amount=64,posY=#bPosY+10,scatterOffset=2-2;ID=poisonous_potato,amount=32,posY=#bPosY+10,scatterOffset=2-2)
+[21:32:41] [Server thread/INFO]: §eYour wish came true! (If you like potatoes)
+[21:32:41] [Client thread/INFO]: [CHAT] §eYour wish came true! (If you like potatoes)
+[21:32:47] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=ender_chest,amount=2
+[21:32:48] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:MarioPlate
+[21:32:49] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=gold_ingot,amount=#random-8-16
+[21:32:50] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=#random-1-1000,amount=#random-2-400
+[21:33:06] [Server thread/INFO] [FML]: Unloading dimension 1
+[21:33:11] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=nevermine.GhostlyCharger,posY='#'bPosY+7,amount=20)"]))
+[21:33:11] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[21:33:11] [Server thread/INFO]: [@: Given [§6Gold Coin] * 1 to jtrent238]
+[21:33:11] [Client thread/INFO]: [CHAT] A wishing well? Maybe you should throw in a coin...
+[21:33:14] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=message,ID="§4Your death wish came true!";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;type=entity,ID=nevermine.GhostlyCharger,posY=#bPosY+7,amount=20)
+[21:33:14] [Server thread/INFO]: §4Your death wish came true!
+[21:33:14] [Client thread/INFO]: [CHAT] §4Your death wish came true!
+[21:33:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2912ms behind, skipping 58 tick(s)
+[21:33:20] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:WoodPlate
+[21:33:21] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:PatArmorLegs
+[21:33:22] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=Villager,NBTTag=(Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig))))))))
+[21:33:25] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:LightSpark
+[21:33:26] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:Budder,NBTTag=(display=(Name=#6Can't Believe It's Budder))
+[21:33:26] [Server thread/WARN] [FML]: Attempted to add a EntityItem to the world with a invalid item at (220845.33,  237.15, 12941.61), this is most likely a config issue between you and the server. Please double check your configs
+[21:33:28] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(ID=stone_sword;ID=stone_shovel;ID=stone_pickaxe;ID=stone_axe;ID=stone_hoe)
+[21:33:28] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:EverfightStaff
+[21:33:30] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=nevermine.WoodGiant,amount=12,scatterOffset=4-4,adjustHeight=2,reinitialize=true,NBTTag=(Type=#random-0-4,Owner=#playerName)
+[21:33:34] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:BudderLegs
+[21:33:35] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=message,ID=Object Successfully Summoned
+[21:33:35] [Server thread/INFO]: Object Successfully Summoned
+[21:33:35] [Client thread/INFO]: [CHAT] Object Successfully Summoned
+[21:33:36] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:Jewelyte
+[21:33:43] [Server thread/INFO]: [jtrent238: Object successfully summoned]
+[21:33:43] [Client thread/INFO]: [CHAT] Object successfully summoned
+[21:33:50] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:BiffaHelm
+[21:33:52] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:CreepoidGreatblade
+[21:34:02] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:BiffaBoots
+[21:34:03] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=nevermine.Eeo,amount=12,scatterOffset=4-4,adjustHeight=2,reinitialize=true,NBTTag=(Type=#random-0-4,Owner=#playerName)
+[21:34:03] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:03] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:04] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=nevermine.SandGiant,amount=12,scatterOffset=4-4,adjustHeight=2,reinitialize=true,NBTTag=(Type=#random-0-4,Owner=#playerName)
+[21:34:04] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:04] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:04] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:05] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:05] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:05] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:06] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:06] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:06] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:06] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:08] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=nevermine.Apparition,amount=12,scatterOffset=4-4,adjustHeight=2,reinitialize=true,NBTTag=(Type=#random-0-4,Owner=#playerName)
+[21:34:09] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2779ms behind, skipping 55 tick(s)
+[21:34:12] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=Villager,NBTTag=(Offers=(Recipes=[(buy=(id=diamond,Count=#random-12-17),sell=(id=golden_helmet,Count=1,tag=(ench=#luckyHelmetEnchantments,display=(Name="#e#lLucky Helmet"))),maxUses=1),(buy=(id=diamond,Count=#random-20-25),sell=(id=golden_chestplate,Count=1,tag=(ench=#luckyChestplateEnchantments,display=(Name="#e#lLucky Chestplate"))),maxUses=1),(buy=(id=diamond,Count=#random-15-20),sell=(id=golden_leggings,Count=1,tag=(ench=#luckyLeggingsEnchantments,display=(Name="#e#lLucky Leggings"))),maxUses=1),(buy=(id=diamond,Count=#random-12-17),sell=(id=golden_boots,Count=1,tag=(ench=#luckyBootsEnchantments,display=(Name="#e#lLucky Boots"))),maxUses=1)]),CustomName="#e#lLucky Villager",CustomNameVisible=true)
+[21:34:12] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:12] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:12] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:12] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:12] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:12] [Client thread/WARN]: Unable to play unknown soundEvent: nevermine:Hunchiving
+[21:34:16] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:JoebuzPlate
+[21:34:18] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:SuperGirlyGamerLegs
+[21:34:19] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=nevermine.Cyclops,amount=12,scatterOffset=4-4,adjustHeight=2,reinitialize=true,NBTTag=(Type=#random-0-4,Owner=#playerName)
+[21:34:20] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=nevermine.Linger,posY='#'bPosY+7,amount=20)"]))
+[21:34:20] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[21:34:20] [Server thread/INFO]: [@: Given [§6Gold Coin] * 1 to jtrent238]
+[21:34:20] [Client thread/INFO]: [CHAT] A wishing well? Maybe you should throw in a coin...
+[21:34:20] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=message,ID="§4Your death wish came true!";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;type=entity,ID=nevermine.Linger,posY=#bPosY+7,amount=20)
+[21:34:21] [Server thread/INFO]: §4Your death wish came true!
+[21:34:21] [Client thread/INFO]: [CHAT] §4Your death wish came true!
+[21:34:26] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:GoldBringer
+[21:34:28] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:oreJade,amount=8
+[21:34:29] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=falling_block,ID=nevermine:CandyBlock
+[21:34:30] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: type=entity,ID=nevermine.DarkBeast,amount=12,scatterOffset=4-4,adjustHeight=2,reinitialize=true,NBTTag=(Type=#random-0-4,Owner=#playerName)
+[21:34:31] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(ID=nevermine:SlingShot;ID=nevermine:PopShot,amount=#random-16-32)
+[21:34:32] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=nevermine.Dicer,posY='#'bPosY+7,amount=20)"]))
+[21:34:32] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[21:34:32] [Server thread/INFO]: [@: Given [§6Gold Coin] * 1 to jtrent238]
+[21:34:32] [Client thread/INFO]: [CHAT] A wishing well? Maybe you should throw in a coin...
+[21:34:32] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=message,ID="§4Your death wish came true!";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;type=entity,ID=nevermine.Dicer,posY=#bPosY+7,amount=20)
+[21:34:32] [Server thread/INFO]: §4Your death wish came true!
+[21:34:32] [Client thread/INFO]: [CHAT] §4Your death wish came true!
+[21:34:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5349ms behind, skipping 106 tick(s)
+[21:34:53] [Server thread/INFO]: Saving and pausing game...
+[21:34:53] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[21:34:53] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[21:34:53] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystallium Plains
+[21:34:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionShyrelands
+[21:34:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPlaytopia
+[21:34:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEthereus
+[21:34:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEverland
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionImmortallis
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCreeponia
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCandyland
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCrystevia
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCeleve
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAncientCavern
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLelyetia
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLabricon
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBarathos
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionRunandor
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionVoxponds
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBorean
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDustopia
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGreckon
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGardencia
+[21:34:54] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDeeplands
+[21:34:55] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLunalus
+[21:34:55] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionIromine
+[21:34:56] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionMysterium
+[21:34:56] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPrecasia
+[21:34:56] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionHaven
+[21:34:56] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAbyss
+[21:34:56] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:34:56] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystalium Dimension
+[21:34:56] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:35:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2584ms behind, skipping 51 tick(s)
+[21:35:14] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:UnderworldStaff
+[21:35:15] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=difficulty,ID=normal;type=entity,ID=cchocolateQuest.turtleBoss)
+[21:35:15] [Server thread/WARN]: Skipping Entity with id cchocolateQuest.turtleBoss
+[21:35:16] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=nevermine.GhostlyCharger,posY='#'bPosY+7,amount=20)"]))
+[21:35:16] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[21:35:16] [Server thread/INFO]: [@: Given [§6Gold Coin] * 1 to jtrent238]
+[21:35:16] [Client thread/INFO]: [CHAT] A wishing well? Maybe you should throw in a coin...
+[21:35:16] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=message,ID="§4Your death wish came true!";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;type=entity,ID=nevermine.GhostlyCharger,posY=#bPosY+7,amount=20)
+[21:35:16] [Server thread/INFO]: §4Your death wish came true!
+[21:35:16] [Client thread/INFO]: [CHAT] §4Your death wish came true!
+[21:35:22] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group:1(ID=clock,NBTTag=(display=(Name="You're wasting your time"));ID=fish,damage=2,NBTTag=(display=(Name="I'm funny"));ID=fish,damage=3,NBTTag=(display=(Name="Oooooh!")))
+[21:35:35] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:WoodPlate
+[21:35:36] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(ID=ender_pearl,amount=#random-1-3;ID=blaze_rod,amount=#random-1-3;ID=ghast_tear,amount=#random-1-3;ID=gold_nugget,amount=#random-1-3;ID=nether_wart,amount=#random-1-3;ID=spider_eye,amount=#random-1-3;ID=fermented_spider_eye,amount=#random-1-3;ID=blaze_powder,amount=#random-1-3;ID=magma_cream,amount=#random-1-3;ID=ender_eye,amount=#random-1-3;ID=382,amount=#random-1-3;type=particle,ID=2002,damage=3)
+[21:35:39] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=youtubers:ItemMoney11
+[21:35:44] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: ID=nevermine:oreAmethyst,amount=8
+[21:35:47] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=difficulty,ID=hard;type=entity,ID=Creeper;type=entity,ID=lightning)
+[21:35:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3331ms behind, skipping 66 tick(s)
+[21:36:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2067ms behind, skipping 41 tick(s)
+[21:36:38] [Server thread/INFO] [STDOUT]: [mod.lucky.util.MakeLuckyDrops:getDrops:42]: Chosen drop: group(type=entity,ID=nevermine.HeadlessDestroyer,amount=#random-5-10,scatterOffset=8-10,adjustHeight=2,reinitialize=true)
+[21:36:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2181ms behind, skipping 43 tick(s)
+[21:36:43] [Client thread/ERROR]: Couldn't render entity
+net.minecraft.util.ReportedException: Registering texture
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:111) ~[bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110577_a(TextureManager.java:45) ~[bqf.class:?]
+	at net.minecraft.client.renderer.entity.Render.func_110776_a(SourceFile:51) ~[bno.class:?]
+	at net.minecraft.client.renderer.entity.Render.func_110777_b(SourceFile:47) ~[bno.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_77036_a(RendererLivingEntity.java:286) ~[boh.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_76986_a(RendererLivingEntity.java:149) [boh.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:23) [bok.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:11) [bok.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:293) [bnn.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147936_a(RenderManager.java:271) [bnn.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147937_a(RenderManager.java:244) [bnn.class:?]
+	at net.minecraft.client.renderer.RenderGlobal.func_147589_a(RenderGlobal.java:471) [bma.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_78471_a(EntityRenderer.java:1224) [blt.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1015) [blt.class:?]
+	at net.ilexiconn.llibrary.client.render.entity.RenderLLibraryEntity.func_78480_b(RenderLLibraryEntity.java:29) [RenderLLibraryEntity.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1001) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110993_a(TextureUtil.java:241) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110995_a(TextureUtil.java:232) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110989_a(TextureUtil.java:194) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_110551_a(SourceFile:48) ~[bpu.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:89) ~[bqf.class:?]
+	... 23 more
+[21:36:47] [Client thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre@6d193c:
+net.minecraft.util.ReportedException: Registering texture
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:111) ~[bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110577_a(TextureManager.java:45) ~[bqf.class:?]
+	at net.nevermine.event.creature.CreatureInfoEvent.drawTexture(CreatureInfoEvent.java:81) ~[CreatureInfoEvent.class:?]
+	at net.nevermine.event.creature.CreatureInfoEvent.render(CreatureInfoEvent.java:54) ~[CreatureInfoEvent.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_128_CreatureInfoEvent_render_Pre.invoke(.dynamic) ~[?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) ~[ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_77033_b(RendererLivingEntity.java:427) [boh.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_76986_a(RendererLivingEntity.java:280) [boh.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:23) [bok.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:11) [bok.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:293) [bnn.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147936_a(RenderManager.java:271) [bnn.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147937_a(RenderManager.java:244) [bnn.class:?]
+	at net.minecraft.client.renderer.RenderGlobal.func_147589_a(RenderGlobal.java:471) [bma.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_78471_a(EntityRenderer.java:1224) [blt.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1015) [blt.class:?]
+	at net.ilexiconn.llibrary.client.render.entity.RenderLLibraryEntity.func_78480_b(RenderLLibraryEntity.java:29) [RenderLLibraryEntity.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1001) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110993_a(TextureUtil.java:241) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110995_a(TextureUtil.java:232) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110989_a(TextureUtil.java:194) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_110551_a(SourceFile:48) ~[bpu.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:89) ~[bqf.class:?]
+	... 26 more
+[21:36:47] [Client thread/ERROR] [FML]: Index: 1 Listeners:
+[21:36:47] [Client thread/ERROR] [FML]: 0: NORMAL
+[21:36:47] [Client thread/ERROR] [FML]: 1: ASM: net.nevermine.event.creature.CreatureInfoEvent@4c2c9 render(Lnet/minecraftforge/client/event/RenderLivingEvent$Specials$Pre;)V
+[21:36:52] [Server thread/INFO]: Stopping server
+[21:36:52] [Server thread/INFO]: Saving players
+[21:36:52] [Server thread/INFO]: Saving worlds
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystallium Plains
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionShyrelands
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPlaytopia
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEthereus
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionEverland
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionImmortallis
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCreeponia
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCandyland
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCrystevia
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionCeleve
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAncientCavern
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLelyetia
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLabricon
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBarathos
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionRunandor
+[21:36:52] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionVoxponds
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionBorean
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDustopia
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGreckon
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionGardencia
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionDeeplands
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionLunalus
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionIromine
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionMysterium
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionPrecasia
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionHaven
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/DimensionAbyss
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/Crystalium Dimension
+[21:36:53] [Server thread/INFO]: Saving chunks for level 'TEST'/Sunset Dimension
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension -22
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 34
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 33
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 32
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 31
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 30
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 29
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 28
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 27
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 26
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 25
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 24
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 23
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 22
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 21
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 20
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 19
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 18
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 17
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 16
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 15
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 14
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 13
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 12
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 11
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 10
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension 9
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension -15
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension -20
+[21:36:53] [Server thread/INFO] [FML]: Unloading dimension -21
+[21:36:55] [Server thread/INFO] [FML]: Applying holder lookups
+[21:36:55] [Server thread/INFO] [FML]: Holder lookups applied
+[21:36:58] [Client thread/FATAL]: Reported exception thrown!
+net.minecraft.util.ReportedException: Registering texture
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:339) ~[bnn.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147936_a(RenderManager.java:271) ~[bnn.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147937_a(RenderManager.java:244) ~[bnn.class:?]
+	at net.minecraft.client.renderer.RenderGlobal.func_147589_a(RenderGlobal.java:471) ~[bma.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_78471_a(EntityRenderer.java:1224) ~[blt.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1015) ~[blt.class:?]
+	at net.ilexiconn.llibrary.client.render.entity.RenderLLibraryEntity.func_78480_b(RenderLLibraryEntity.java:29) ~[RenderLLibraryEntity.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1001) ~[bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110993_a(TextureUtil.java:241) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110995_a(TextureUtil.java:232) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110989_a(TextureUtil.java:194) ~[bqi.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_110551_a(SourceFile:48) ~[bpu.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:89) ~[bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110577_a(TextureManager.java:45) ~[bqf.class:?]
+	at net.nevermine.event.creature.CreatureInfoEvent.drawTexture(CreatureInfoEvent.java:81) ~[CreatureInfoEvent.class:?]
+	at net.nevermine.event.creature.CreatureInfoEvent.render(CreatureInfoEvent.java:54) ~[CreatureInfoEvent.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_128_CreatureInfoEvent_render_Pre.invoke(.dynamic) ~[?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) ~[ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) ~[EventBus.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_77033_b(RendererLivingEntity.java:427) ~[boh.class:?]
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_76986_a(RendererLivingEntity.java:280) ~[boh.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:23) ~[bok.class:?]
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:11) ~[bok.class:?]
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:293) ~[bnn.class:?]
+	... 15 more
+[21:36:58] [Client thread/INFO] [STDOUT]: [net.minecraft.client.Minecraft:func_71377_b:349]: ---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 7/8/16 9:36 PM
+Description: Registering texture
+
+java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110993_a(TextureUtil.java:241)
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110995_a(TextureUtil.java:232)
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110989_a(TextureUtil.java:194)
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_110551_a(SourceFile:48)
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:89)
+	at net.minecraft.client.renderer.texture.TextureManager.func_110577_a(TextureManager.java:45)
+	at net.nevermine.event.creature.CreatureInfoEvent.drawTexture(CreatureInfoEvent.java:81)
+	at net.nevermine.event.creature.CreatureInfoEvent.render(CreatureInfoEvent.java:54)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_128_CreatureInfoEvent_render_Pre.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_77033_b(RendererLivingEntity.java:427)
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_76986_a(RendererLivingEntity.java:280)
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:23)
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:11)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:293)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147936_a(RenderManager.java:271)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147937_a(RenderManager.java:244)
+	at net.minecraft.client.renderer.RenderGlobal.func_147589_a(RenderGlobal.java:471)
+	at net.minecraft.client.renderer.EntityRenderer.func_78471_a(EntityRenderer.java:1224)
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1015)
+	at net.ilexiconn.llibrary.client.render.entity.RenderLLibraryEntity.func_78480_b(RenderLLibraryEntity.java:29)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1001)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110993_a(TextureUtil.java:241)
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110995_a(TextureUtil.java:232)
+	at net.minecraft.client.renderer.texture.TextureUtil.func_110989_a(TextureUtil.java:194)
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_110551_a(SourceFile:48)
+
+-- Resource location being registered --
+Details:
+	Resource location: nevermine:textures/gui/hunterMob.png
+	Texture object class: net.minecraft.client.renderer.texture.SimpleTexture
+Stacktrace:
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:89)
+	at net.minecraft.client.renderer.texture.TextureManager.func_110577_a(TextureManager.java:45)
+	at net.nevermine.event.creature.CreatureInfoEvent.drawTexture(CreatureInfoEvent.java:81)
+	at net.nevermine.event.creature.CreatureInfoEvent.render(CreatureInfoEvent.java:54)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_128_CreatureInfoEvent_render_Pre.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_77033_b(RendererLivingEntity.java:427)
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.func_76986_a(RendererLivingEntity.java:280)
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:23)
+	at net.minecraft.client.renderer.entity.RenderLiving.func_76986_a(SourceFile:11)
+
+-- Entity being rendered --
+Details:
+	Entity Type: nevermine.HeadlessDestroyer (net.nevermine.mob.entity.overworld.EntityHeadlessDestroyer)
+	Entity ID: 2549
+	Entity Name: Headless Destroyer
+	Entity's Exact location: 220797.50, 237.00, 12889.50
+	Entity's Block location: World: (220797,237,12889), Chunk: (at 13,14,9 in 13799,805; contains blocks 220784,0,12880 to 220799,255,12895), Region: (431,25; contains chunks 13792,800 to 13823,831, blocks 220672,0,12800 to 221183,255,13311)
+	Entity's Momentum: 0.00, -0.08, 0.00
+
+-- Renderer details --
+Details:
+	Assigned renderer: net.nevermine.mob.render.overworld.RenderHeadlessDestroyer@19df1fa
+	Location: -8.84,-3.41,7.89 - World: (-9,-4,7), Chunk: (at 7,-1,7 in -1,0; contains blocks -16,0,0 to -1,255,15), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Rotation: 0.0
+	Delta: 0.45813584
+Stacktrace:
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:293)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147936_a(RenderManager.java:271)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147937_a(RenderManager.java:244)
+	at net.minecraft.client.renderer.RenderGlobal.func_147589_a(RenderGlobal.java:471)
+	at net.minecraft.client.renderer.EntityRenderer.func_78471_a(EntityRenderer.java:1224)
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1015)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['jtrent238'/80, l='MpServer', x=220806.34, y=240.41, z=12881.60]]
+	Chunk stats: MultiplayerChunkCache: 35, 35
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (0,4,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 367768 game time, 1000 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 180 total; [EntityItem['item.item.GoldBringer'/2056, l='MpServer', x=220859.28, y=237.13, z=12882.53], EntityItem['item.tile.oreJade'/2066, l='MpServer', x=220857.28, y=237.13, z=12881.53], EntityItem['item.tile.oreJade'/2068, l='MpServer', x=220857.56, y=237.13, z=12883.88], EntityDarkBeast['Dark Beast'/2083, l='MpServer', x=220858.38, y=237.00, z=12880.31], EntityDarkBeast['Dark Beast'/2084, l='MpServer', x=220861.28, y=237.00, z=12881.63], EntityDarkBeast['Dark Beast'/2085, l='MpServer', x=220862.84, y=237.00, z=12879.97], EntityDarkBeast['Dark Beast'/2088, l='MpServer', x=220854.38, y=237.00, z=12886.19], EntityDarkBeast['Dark Beast'/2089, l='MpServer', x=220858.69, y=237.00, z=12878.47], EntityDarkBeast['Dark Beast'/2090, l='MpServer', x=220860.38, y=237.00, z=12887.66], EntityDarkBeast['Dark Beast'/2091, l='MpServer', x=220858.91, y=237.00, z=12889.53], EntityDarkBeast['Dark Beast'/2092, l='MpServer', x=220859.50, y=237.00, z=12881.72], EntityDarkBeast['Dark Beast'/2094, l='MpServer', x=220858.19, y=237.00, z=12876.41], EntityDarkBeast['Dark Beast'/2095, l='MpServer', x=220859.81, y=237.00, z=12872.44], EntityItem['item.item.slingShot'/2107, l='MpServer', x=220857.16, y=237.13, z=12883.13], EntityItem['item.item.PopShot'/2109, l='MpServer', x=220857.88, y=237.13, z=12883.13], EntityItem['item.item.PopShot'/2110, l='MpServer', x=220858.25, y=237.13, z=12885.38], EntityClientPlayerMP['jtrent238'/80, l='MpServer', x=220806.34, y=240.41, z=12881.60], EntityHat['unknown'/86, l='MpServer', x=220806.34, y=240.41, z=12881.60], EntityDicer['Dicer'/2146, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2147, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2148, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2149, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2150, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2151, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2152, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityMinecartChest['entity.MinecartChest.name'/105, l='MpServer', x=220859.50, y=24.50, z=12917.50], EntityDicer['Dicer'/2153, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2154, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2155, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2156, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2157, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2158, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2161, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2163, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2165, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2166, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2168, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2169, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityDicer['Dicer'/2171, l='MpServer', x=220857.50, y=241.00, z=12883.50], EntityItem['item.item.UnderworldStaff'/2191, l='MpServer', x=220828.28, y=237.13, z=12869.88], EntityGhostlyCharger['Ghostly Charger'/2197, l='MpServer', x=220805.78, y=237.00, z=12859.44], EntityGhostlyCharger['Ghostly Charger'/2198, l='MpServer', x=220818.44, y=237.00, z=12892.30], EntityGhostlyCharger['Ghostly Charger'/2199, l='MpServer', x=220815.78, y=237.00, z=12883.69], EntityGhostlyCharger['Ghostly Charger'/2200, l='MpServer', x=220832.03, y=237.00, z=12868.47], EntityGhostlyCharger['Ghostly Charger'/2201, l='MpServer', x=220822.44, y=237.00, z=12884.59], EntityGhostlyCharger['Ghostly Charger'/2202, l='MpServer', x=220819.78, y=237.00, z=12863.94], EntityGhostlyCharger['Ghostly Charger'/2203, l='MpServer', x=220832.13, y=237.00, z=12869.19], EntityGhostlyCharger['Ghostly Charger'/2204, l='MpServer', x=220847.09, y=237.00, z=12880.22], EntityGhostlyCharger['Ghostly Charger'/2205, l='MpServer', x=220848.19, y=237.00, z=12857.03], EntityGhostlyCharger['Ghostly Charger'/2206, l='MpServer', x=220817.94, y=237.00, z=12861.53], EntityGhostlyCharger['Ghostly Charger'/2207, l='MpServer', x=220844.94, y=237.00, z=12881.94], EntityGhostlyCharger['Ghostly Charger'/2208, l='MpServer', x=220842.75, y=237.00, z=12855.19], EntityGhostlyCharger['Ghostly Charger'/2209, l='MpServer', x=220826.53, y=237.00, z=12877.78], EntityGhostlyCharger['Ghostly Charger'/2210, l='MpServer', x=220832.25, y=237.00, z=12873.09], EntityGhostlyCharger['Ghostly Charger'/2211, l='MpServer', x=220832.03, y=237.00, z=12887.41], EntityGhostlyCharger['Ghostly Charger'/2212, l='MpServer', x=220848.09, y=237.00, z=12849.94], EntityGhostlyCharger['Ghostly Charger'/2213, l='MpServer', x=220843.66, y=237.00, z=12847.94], EntityGhostlyCharger['Ghostly Charger'/2214, l='MpServer', x=220845.53, y=237.00, z=12862.69], EntityGhostlyCharger['Ghostly Charger'/2215, l='MpServer', x=220846.44, y=237.00, z=12850.31], EntityCreeper['Creeper'/2358, l='MpServer', x=220803.97, y=237.00, z=12866.69], EntityItem['item.item.BiffaHelm'/1863, l='MpServer', x=220859.16, y=237.13, z=12921.31], EntityItem['item.item.ItemMoney.50$'/2376, l='MpServer', x=220811.53, y=237.13, z=12873.28], EntityItem['item.item.ItemMoney.10$'/2378, l='MpServer', x=220811.75, y=237.13, z=12871.94], EntityItem['item.item.ItemMoney.5$'/2379, l='MpServer', x=220810.84, y=237.13, z=12872.56], EntityItem['item.item.BiffaBoots'/1868, l='MpServer', x=220859.41, y=237.13, z=12920.44], EntityItem['item.item.ItemMoney.1$'/2381, l='MpServer', x=220811.63, y=237.13, z=12872.69], EntityEeo['Scared Eeo'/1870, l='MpServer', x=220858.94, y=237.00, z=12915.53], EntityItem['item.item.GhostStone'/2382, l='MpServer', x=220811.91, y=237.13, z=12872.94], EntityEeo['Scared Eeo'/1871, l='MpServer', x=220858.72, y=237.00, z=12918.75], EntityEeo['Scared Eeo'/1872, l='MpServer', x=220853.69, y=237.00, z=12917.84], EntityEeo['Scared Eeo'/1873, l='MpServer', x=220855.88, y=237.00, z=12913.28], EntityEeo['Scared Eeo'/1875, l='MpServer', x=220858.75, y=237.00, z=12914.38], EntityEeo['Scared Eeo'/1876, l='MpServer', x=220855.41, y=237.00, z=12917.50], EntityEeo['Scared Eeo'/1878, l='MpServer', x=220852.34, y=237.00, z=12916.31], EntityItem['item.tile.gravel'/2390, l='MpServer', x=220858.53, y=-18.60, z=12940.56], EntityEeo['Scared Eeo'/1879, l='MpServer', x=220857.41, y=237.00, z=12919.16], EntityWoodGiant['Wood Giant'/2391, l='MpServer', x=220849.59, y=234.89, z=12942.72], EntityEeo['Scared Eeo'/1880, l='MpServer', x=220852.81, y=237.00, z=12922.03], EntityWoodGiant['Wood Giant'/2392, l='MpServer', x=220848.75, y=234.89, z=12936.69], EntityWoodGiant['Wood Giant'/2393, l='MpServer', x=220850.72, y=234.89, z=12942.69], EntityWoodGiant['Wood Giant'/2394, l='MpServer', x=220849.97, y=234.89, z=12937.09], EntityCreeper['Creeper'/2395, l='MpServer', x=220854.06, y=234.89, z=12930.63], EntityGhostlyCharger['Ghostly Charger'/2396, l='MpServer', x=220857.63, y=234.89, z=12930.97], EntityEeo['Scared Eeo'/2397, l='MpServer', x=220862.84, y=237.00, z=12928.13], EntityItem['item.item.WoodPlate'/2398, l='MpServer', x=220845.34, y=189.40, z=12940.88], EntityItem['item.item.PatArmorLegs'/2399, l='MpServer', x=220843.47, y=189.40, z=12939.50], EntityItem['item.item.LightSpark'/2400, l='MpServer', x=220846.19, y=189.40, z=12942.00], EntityItem['item.item.shovelStone'/2401, l='MpServer', x=220845.41, y=189.40, z=12942.16], EntityItem['item.item.pickaxeStone'/2402, l='MpServer', x=220846.22, y=189.40, z=12942.34], EntityItem['item.item.hatchetStone'/2403, l='MpServer', x=220846.63, y=189.40, z=12942.22], EntityItem['item.item.hoeStone'/2404, l='MpServer', x=220845.47, y=189.40, z=12942.38], EntityItem['item.item.EverfightStaff'/2405, l='MpServer', x=220846.38, y=189.40, z=12941.84], EntityWoodGiant['Wood Giant'/2406, l='MpServer', x=220845.34, y=234.89, z=12936.53], EntitySandGiant['Sand Giant'/1895, l='MpServer', x=220856.16, y=237.00, z=12925.66], EntityWoodGiant['Wood Giant'/2407, l='MpServer', x=220845.47, y=234.89, z=12936.41], EntityItem['item.item.BudderLegs'/2408, l='MpServer', x=220846.28, y=189.40, z=12942.50], EntitySandGiant['Sand Giant'/1897, l='MpServer', x=220856.59, y=237.00, z=12925.63], EntityItem['item.item.Jewelyte'/2409, l='MpServer', x=220845.28, y=189.40, z=12941.25], EntityGhostlyCharger['Ghostly Charger'/2410, l='MpServer', x=220842.59, y=234.89, z=12930.38], EntityGhostlyCharger['Ghostly Charger'/2411, l='MpServer', x=220831.84, y=234.89, z=12940.28], EntitySandGiant['Sand Giant'/1900, l='MpServer', x=220855.13, y=237.00, z=12925.72], EntityItem['item.tile.torch'/2412, l='MpServer', x=220813.74, y=-20.29, z=12940.50], EntitySandGiant['Sand Giant'/1901, l='MpServer', x=220856.59, y=237.00, z=12925.63], EntitySandGiant['Sand Giant'/1903, l='MpServer', x=220852.97, y=237.00, z=12913.47], EntitySandGiant['Sand Giant'/1904, l='MpServer', x=220855.28, y=237.00, z=12925.66], EntitySandGiant['Sand Giant'/1905, l='MpServer', x=220853.13, y=237.00, z=12913.47], EntitySandGiant['Sand Giant'/1906, l='MpServer', x=220850.22, y=237.00, z=12919.13], EntityItem['item.item.OpteryxFeather'/2438, l='MpServer', x=220802.22, y=237.13, z=12879.84], EntityItem['item.item.ItemJetPack'/2439, l='MpServer', x=220802.28, y=237.13, z=12879.75], EntityApparition['Apparition'/1930, l='MpServer', x=220860.25, y=237.00, z=12907.63], EntityItem['item.item.goldNugget'/2443, l='MpServer', x=220802.66, y=237.13, z=12880.16], EntityApparition['Apparition'/1932, l='MpServer', x=220855.38, y=237.00, z=12909.34], EntityApparition['Apparition'/1933, l='MpServer', x=220857.31, y=237.00, z=12921.78], EntityApparition['Apparition'/1934, l='MpServer', x=220863.13, y=237.00, z=12912.00], EntityItem['item.item.fish.pufferfish.raw'/2446, l='MpServer', x=220802.56, y=237.13, z=12880.06], EntityApparition['Apparition'/1935, l='MpServer', x=220852.91, y=237.00, z=12906.16], EntityApparition['Apparition'/1936, l='MpServer', x=220862.44, y=237.00, z=12914.69], EntityApparition['Apparition'/1937, l='MpServer', x=220857.06, y=237.00, z=12908.50], EntityApparition['Apparition'/1939, l='MpServer', x=220853.59, y=237.00, z=12903.16], EntityItem['item.tile.null'/2451, l='MpServer', x=220802.34, y=237.13, z=12880.03], EntityApparition['Apparition'/1940, l='MpServer', x=220863.50, y=237.00, z=12912.75], EntityItem['item.item.ingotGold'/2452, l='MpServer', x=220802.06, y=237.13, z=12879.81], EntityApparition['Apparition'/1941, l='MpServer', x=220859.06, y=237.00, z=12912.09], EntityItem['item.tile.anvil.intact'/2453, l='MpServer', x=220802.16, y=237.13, z=12879.84], EntityItem['item.item.ItemSpawnerPL'/2458, l='MpServer', x=220802.22, y=237.13, z=12879.97], EntityItem['item.item.ItemSpawnerPL'/2461, l='MpServer', x=220802.28, y=237.13, z=12879.66], EntityItem['item.item.MarioPlate'/2465, l='MpServer', x=220802.41, y=237.13, z=12879.69], EntityItem['item.tile.luckyBlock'/2466, l='MpServer', x=220802.38, y=237.13, z=12879.69], EntityItem['item.tile.luckyBlock'/2470, l='MpServer', x=220802.56, y=237.13, z=12879.94], EntityItem['item.tile.enderChest'/2473, l='MpServer', x=220802.13, y=237.13, z=12879.59], EntityVillager['§e§lLucky Villager'/1963, l='MpServer', x=220859.41, y=237.00, z=12907.97], EntityItem['item.item.JoebuzPlate'/1965, l='MpServer', x=220863.25, y=237.13, z=12899.44], EntityItem['item.tile.spawnerSceptron'/2478, l='MpServer', x=220802.53, y=237.13, z=12880.41], EntityItem['item.item.SuperGirlyGamerLegs'/1967, l='MpServer', x=220863.41, y=237.13, z=12897.84], EntityItem['item.item.book'/2479, l='MpServer', x=220802.47, y=237.13, z=12879.97], EntityCyclops['Cyclops'/1970, l='MpServer', x=220861.16, y=237.00, z=12895.88], EntityItem['item.item.SphinxEgg'/2483, l='MpServer', x=220802.25, y=237.13, z=12879.91], EntityCyclops['Cyclops'/1972, l='MpServer', x=220853.84, y=237.00, z=12897.22], EntityCyclops['Cyclops'/1974, l='MpServer', x=220861.53, y=237.00, z=12888.50], EntityItem['item.item.chestplateIron'/2488, l='MpServer', x=220802.34, y=237.13, z=12879.88], EntityItem['item.tile.heatLamp_0'/2489, l='MpServer', x=220802.81, y=237.13, z=12880.00], EntityItem['item.item.ItemMobSpawner.Bomby'/2490, l='MpServer', x=220802.59, y=237.13, z=12880.22], EntityCyclops['Cyclops'/1980, l='MpServer', x=220857.53, y=237.00, z=12890.34], EntityTrail['unknown'/957, l='MpServer', x=220806.34, y=240.41, z=12881.60], EntityItem['item.item.helmetGold'/2495, l='MpServer', x=220802.28, y=237.13, z=12880.03], EntityItem['item.item.spawn_bedrock_golem'/2499, l='MpServer', x=220802.56, y=237.18, z=12880.25], EntityItem['item.item.SphinxEgg'/2500, l='MpServer', x=220802.31, y=237.13, z=12879.84], EntityItem['item.item.headcrumbs.egg'/2506, l='MpServer', x=220802.59, y=237.13, z=12880.34], EntityItem['item.item.JoebuzPlate'/2507, l='MpServer', x=220802.56, y=237.13, z=12880.03], EntityItem['item.item.headcrumbs.egg'/2508, l='MpServer', x=220802.28, y=237.13, z=12879.72], EntityLinger['Linger'/2001, l='MpServer', x=220862.69, y=237.00, z=12887.69], EntityItem['item.item.headcrumbs.egg'/2513, l='MpServer', x=220802.50, y=237.13, z=12880.34], EntityLinger['Linger'/2002, l='MpServer', x=220858.31, y=237.00, z=12908.69], EntityLinger['Linger'/2003, l='MpServer', x=220851.97, y=237.00, z=12909.59], EntityLinger['Linger'/2004, l='MpServer', x=220854.69, y=237.00, z=12902.88], EntityLinger['Linger'/2005, l='MpServer', x=220861.41, y=237.00, z=12900.53], EntityItem['item.item.ModLegs'/2517, l='MpServer', x=220802.53, y=237.13, z=12880.19], EntityLinger['Linger'/2006, l='MpServer', x=220860.63, y=237.00, z=12899.06], EntityItem['item.item.headcrumbs.egg'/2518, l='MpServer', x=220802.66, y=237.13, z=12880.16], EntityLinger['Linger'/2007, l='MpServer', x=220862.91, y=237.00, z=12899.81], EntityItem['item.tile.luckyBlock'/2522, l='MpServer', x=220802.66, y=237.13, z=12880.16], EntityLinger['Linger'/2013, l='MpServer', x=220863.91, y=241.00, z=12896.16], EntityItem['item.item.WitherRune'/2525, l='MpServer', x=220802.56, y=237.13, z=12879.97], EntityLinger['Linger'/2014, l='MpServer', x=220863.88, y=241.00, z=12897.72], EntityLinger['Linger'/2015, l='MpServer', x=220856.66, y=237.00, z=12896.09], EntityLinger['Linger'/2016, l='MpServer', x=220862.06, y=241.00, z=12898.44], EntityItem['item.item.headcrumbs.egg'/2528, l='MpServer', x=220802.03, y=237.13, z=12879.69], EntityLinger['Linger'/2017, l='MpServer', x=220859.22, y=237.00, z=12899.94], EntityItem['item.item.headcrumbs.egg'/2531, l='MpServer', x=220802.56, y=237.13, z=12880.03], EntityItem['item.tile.bookshelf'/2534, l='MpServer', x=220802.25, y=237.13, z=12879.91], EntityHeadlessDestroyer['Headless Destroyer'/2547, l='MpServer', x=220798.50, y=237.00, z=12873.50], EntityHeadlessDestroyer['Headless Destroyer'/2548, l='MpServer', x=220807.50, y=237.00, z=12872.50], EntityHeadlessDestroyer['Headless Destroyer'/2549, l='MpServer', x=220797.50, y=237.00, z=12889.50], EntityHeadlessDestroyer['Headless Destroyer'/2550, l='MpServer', x=220815.47, y=237.00, z=12884.75], EntityHeadlessDestroyer['Headless Destroyer'/2551, l='MpServer', x=220810.50, y=237.00, z=12892.50], EntityHeadlessDestroyer['Headless Destroyer'/2552, l='MpServer', x=220814.50, y=237.00, z=12879.50], EntityHeadlessDestroyer['Headless Destroyer'/2553, l='MpServer', x=220815.48, y=237.00, z=12882.29], EntityHeadlessDestroyer['Headless Destroyer'/2554, l='MpServer', x=220813.50, y=237.00, z=12876.50], EntityHeadlessDestroyer['Headless Destroyer'/2555, l='MpServer', x=220810.47, y=237.00, z=12872.77], EntityHeadlessDestroyer['Headless Destroyer'/2556, l='MpServer', x=220812.50, y=237.00, z=12874.50]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.func_72914_a(WorldClient.java:373)
+	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2444)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:919)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (x86) version 6.1
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 26677576 bytes (25 MB) / 523501568 bytes (499 MB) up to 523501568 bytes (499 MB)
+	JVM Flags: 6 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx512M -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 44 mods loaded, 44 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	CodeChickenCore{1.0.7.47} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAA	NotEnoughItems{1.0.5.118} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.118-universal.jar) 
+	UCHIJAAAA	FamiliarsAPI{1.7.10} [Familiars API] (FamiliarsAPI-1.7.10.jar) 
+	UCHIJAAAA	battlegear2{1.7.10} [Mine & Blade Battlegear 2 - Bullseye] (1.7.10-MB_Battlegear2-Bullseye-1.0.8.3 (1).jar) 
+	UCHIJAAAA	dungeonpack{1.7.10-1.0} [Dungeon Pack] (14174895548_Dungeon-Pack-Mod-1.7.10 (1).jar) 
+	UCHIJAAAA	DamageIndicatorsMod{3.2.0} [Damage Indicators] ([1.7.10]DamageIndicatorsMod-3.2.0.jar) 
+	UCHIJAAAA	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) 
+	UCHIJAAAA	Treecapitator{1.7.10} [Treecapitator] ([1.7.10]Treecapitator-universal-2.0.4.jar) 
+	UCHIJAAAA	animatedplayer{1.5.1} [Animated Player Mod] (Animated-Player-Mod-1.7.10.jar) 
+	UCHIJAAAA	AnimationAPI{1.2.4} [AnimationAPI] (AnimationAPI-1.7.10.jar) 
+	UCHIJAAAA	nevermine{2.5} [AdventOfAscension] (AoA-Snapshot 2 (2.5).jar) 
+	UCHIJAAAA	gibby_dungeons{1.4} [Arcana RPG] (Arcana RPG 1.7.10-1.4.1.jar) 
+	UCHIJAAAA	Backpack{2.0.0} [Backpack] (backpack-2.0.0-1.7.x.jar) 
+	UCHIJAAAA	iChunUtil{4.2.2} [iChunUtil] (iChunUtil-4.2.2.jar) 
+	UCHIJAAAA	BackTools{4.0.0} [BackTools] (BackTools-4.0.0.jar) 
+	UCHIJAAAA	chocolateQuest{1.0} [Chocolate Quest] (chocolateQuest-1.7.10-1.1d.jar) 
+	UCHIJAAAA	CustomPets{1.0.5} [Custom Pets] (custompets-1.7.10-1.0.5-universal.jar) 
+	UCHIJAAAA	mwaw{1.7.10-0.0.1} [Elemental Witch Mod] (Elemental-Witch-Mod-1.7.10.jar) 
+	UCHIJAAAA	eplus{3.0.2-d} [Enchanting Plus] (EnchantingPlus-1.7.10-3.0.2-d.jar) 
+	UCHIJAAAA	lucky{5.1.0} [Â§eEpic Proportions Lucky Block] (EpicProportions-Lucky-Block-Mod-1.7.10.jar) 
+	UCHIJAAAA	golems{1.20} [Extra Golems] (Extra-Golems[1.7.10]-1.20.jar) 
+	UCHIJAAAA	carystanley_extremefarming{1.0} [Extreme Farming] (Extreme-TNT-Farming-Mod-1.7.2.jar) 
+	UCHIJAAAA	grim3212core{V0.2 - 1.7.10} [Grim3212 Core] (Grim3212-Core-1.7.10.jar) 
+	UCHIJAAAA	Hats{4.0.1} [Hats] (Hats-4.0.1.jar) 
+	UCHIJAAAA	headcrumbs{1.7.4} [Headcrumbs] (Headcrumbs-1.7.4.jar) 
+	UCHIJAAAA	InfernalMobs{1.6.0} [Infernal Mobs] (InfernalMobs-1.7.10.jar) 
+	UCHIJAAAA	llibrary{0.7.2} [LLibrary] (llibrary-0.7.2-1.7.10.jar) 
+	UCHIJAAAA	lootbags{2.0.12} [Loot Bags] (LootBags-1.7.10-2.0.12.jar) 
+	UCHIJAAAA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJAAAA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJAAAA	MobAmputation{4.0.0} [MobAmputation] (Mob-Amputation-Mod-1.7.10.jar) 
+	UCHIJAAAA	MobDismemberment{4.0.0} [MobDismemberment] (MobDismemberment-4.0.0.jar) 
+	UCHIJAAAA	cfm{3.4.7} [§9MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.4.7(1.7.10).jar) 
+	UCHIJAAAA	MutantCreatures{1.4.7} [Mutant Creatures] (Mutant-Creatures-Mod-1.7.10.jar) 
+	UCHIJAAAA	obscore{1.3.3} [ObsCore] (obscore-1.3.3_mc1.7.10.jar) 
+	UCHIJAAAA	obstrophiesaoa{1.4.0} [ObsTrophies] (obstrophiesaoa-1.4.0_mc1.7.10 (1).jar) 
+	UCHIJAAAA	pandorasbox{2.0.1} [Pandora's Box] (PandorasBox-2.1.jar) 
+	UCHIJAAAA	pokeball{V0.1 - 1.7.10} [Pokeball] (Pokeball-Mod-by-grim3212-1.7.10.jar) 
+	UCHIJAAAA	rftl{1.7.10} [Rotten Flesh to Leather] (Rotten-Flesh-to-Leather-Mod-1.7.10.jar) 
+	UCHIJAAAA	Waila{1.5.3} [Waila] (Waila-Mod-1.7.10.jar) 
+	UCHIJAAAA	youtubers{1.8.0} [Youtubers+ Mod] (youtubers-1.8.0-MC1.7.10.jar) 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '3.3.11672 Compatibility Profile Context' Renderer: 'ATI Radeon 3100 Graphics'
+	Launched Version: 1.7.10-Forge10.13.4.1614-1.7.10
+	LWJGL: 2.9.1
+	OpenGL: ATI Radeon 3100 Graphics GL version 3.3.11672 Compatibility Profile Context, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)
+[21:36:58] [Client thread/INFO] [STDOUT]: [net.minecraft.client.Minecraft:func_71377_b:359]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\trent\AppData\Roaming\.minecraft.EpicProportions\crash-reports\crash-2016-07-08_21.36.58-client.txt
