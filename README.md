@@ -13,7 +13,7 @@ I am working on a Epic Proportions Lucky Block, and I would like for you to add 
 * Q:How much time has been put in this Custom Lucky Block?
   * A:So Far over 8 Hours!
 * Q:Are there any bugs?
-  * A:Yes, Sometimes you might get a crash.
+  * A:Yes, Sometimes you might get a crash. [Most Common Crash(Out Of Memory)](https://raw.githubusercontent.com/jtrent238/Epic-Proportions-Lucky-Block/master/CommonCrash.txt)
 * Q:What mods did you have installed while making?
   * A:Just look [Here](https://jtrent238.github.io/Epic-Proportions-Lucky-Block/obscore_mod_version_data.html).
 * Q:Are the Normal Lucky Block drops still there?
