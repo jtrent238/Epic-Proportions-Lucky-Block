@@ -6,7 +6,7 @@ I am working on a Epic Proportions Lucky Block, and I would like for you to add 
 * Over 10,000 Drops.
 * Custom drops for [Epic Proportions Season 9](https://www.youtube.com/watch?v=Oet39ZAl7iY)
 * Custom Crafing Recipe
-* Custom Texture for [Epic Proportions Season 9](https://www.youtube.com/watch?v=Oet39ZAl7iY)
+* [Custom Texture](https://github.com/jtrent238/Epic-Proportions-Lucky-Block/blob/gh-pages/texture.gif) for [Epic Proportions Season 9](https://www.youtube.com/watch?v=Oet39ZAl7iY)
 * 
 
 ## FAQ?
