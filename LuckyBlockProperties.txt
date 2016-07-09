@@ -303,7 +303,6 @@ ID=youtubers:Budder,NBTTag=(display=(Name=#6Can't Believe It's Budder))@luck=0
 ID=cfm:itemtoilet,NBTTag=(display=(Name=#9#lPortable Toilet))@luck=-1
 
 
-
 /========== GROUPS ==========
 
 /message with C.R.E.E.P Egg
@@ -326,21 +325,6 @@ group:1(ID=nevermine:ExplosiveGem,NBTTag=(display=(Name="#8#lI Don't Want To Exp
 /random stuff
 group(ID=#random-0-5000,amount=#random-100-100,reinitialize=true)@luck=1
 
-/jtrent238 SpawnEggs
-group:1(ID=#6406,NBTTag=(display=(Name="jtrent238"))amount=#random-1-100)@luck=0
-group:1(ID=#6406,NBTTag=(display=(Name="jtrent238"))amount=#random-1-100)@luck=0
-group:1(ID=#6414,NBTTag=(display=(Name="jtrent238"))amount=#random-1-100)@luck=0
-group:1(ID=#6414,NBTTag=(display=(Name="jtrent238"))amount=#random-1-100)@luck=0
-
-/Epic Proportions SpawnEggs
-group:1(ID=#6406,NBTTag=(display=(Name="FuriousDestroyer"))amount=#random-1-100)@luck=0
-group:1(ID=#6406,NBTTag=(display=(Name="SuperGirlyGamer"))amount=#random-1-100)@luck=0
-group:1(ID=#6414,NBTTag=(display=(Name="FuriousDestroyer"))amount=#random-1-100)@luck=0
-group:1(ID=#6414,NBTTag=(display=(Name="SuperGirlyGamer"))amount=#random-1-100)@luck=0
-
-/lootbags
-group(group:1(ID=lootbags:lootbag,damage=#random-0-4,amount=#random-5-20,reinitialize=true;type=particle,ID=2002,damage=#randomPotionEffect,amount=20,reinitialize=true)@luck=1
-
 /========== ENTITIES ==========
 
 /Lucky Draggy, Craggy, Waggy, Shaddy, Spraggy
@@ -351,9 +335,6 @@ group(type=entity,ID=nevermine.Ent,NBTTag=(Equipment=[(id=diamond_sword,Count=1,
 
 /Omnibob
 group(type=difficulty,ID=normal;type=entity,ID=Zombie,NBTTag=(Equipment=[(id=nevermine:PlutonScythe,Count=1,Damage=0,tag=(ench=#luckySwordEnchantments)),(id=nevermine:OmniHelmet,Count=1,Damage=0,tag=(ench=#luckyHelmetEnchantments)),(id=nevermine:OmniChestplate,Count=1,Damage=0,tag=(ench=#luckyChestplateEnchantments)),(id=nevermine:OmniLeggings,Count=1,Damage=0,tag=(ench=#luckyLeggingsEnchantments)),(id=nevermine:OmniBoots,Count=1,Damage=0,tag=(ench=#luckyBootsEnchantments))],CustomName="#e#lOmni Bob",CustomNameVisible=true))@luck=-2
-
-/Pet Bomby
-group(type=entity,ID=youtubers.Bomby,NBTTag=(Equipment=[(id=diamond_sword,Count=1,Damage=0,tag=(ench=#luckySwordEnchantments)),(id=diamond_helmet,Count=1,Damage=0,tag=(ench=#luckyHelmetEnchantments)),(id=diamond_chestplate,Count=1,Damage=0,tag=(ench=#luckyChestplateEnchantments)),(id=diamond_leggings,Count=1,Damage=0,tag=(ench=#luckyLeggingsEnchantments)),(id=diamond_boots,Count=1,Damage=0,tag=(ench=#luckyBootsEnchantments))],CustomName="#lBomby",CustomNameVisible=true))@luck=2
 
 /C.R.E.E.P.
 group(type=difficulty,ID=normal;type=entity,ID=nevermine.Creep)@chance=0.1@luck=-2
@@ -428,10 +409,14 @@ group(type=difficulty,ID=normal;type=entity,ID=nevermine.CherryBlaster,adjustHei
 /Spearmint Slug With Peppermint Slug
 group(type=difficulty,ID=normal;type=entity,ID=nevermine.SpearmintSlug,adjustHeight=1;type=entity,ID=PeppermintSlug,amount=25,posY=#bPosY+#random-0-2,scatterOffset=0-1,adjustHeight=1,reinitialize=true)@luck=-1
 
-/Elemental Witches
-group(type=difficulty,ID=normal;type=entity,ID=mwaw.firewitch)@chance=0.1@luck=-2
-group(type=difficulty,ID=normal;type=entity,ID=mwaw.lightningwitch)@chance=0.1@luck=-2
-group(type=difficulty,ID=normal;type=entity,ID=mwaw.airwitch)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.Creeperlock)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.CaveCreepoid)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.BoneCreeper)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.WingedCreeper)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.Creepird)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.KingCreeper)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.MagicalCreeper)@chance=0.1@luck=-2
+group(type=difficulty,ID=normal;type=entity,ID=nevermine.Creepuple)@chance=0.1@luck=-2
 
 /C.R.E.E.P. Instakill
 group(type=entity,ID=nevermine.creep,NBTTag=(HealF=0);type=message,ID=#aThis Lucky Block insta-killed #2#lC.R.E.E.P.#r!)@luck=2
@@ -592,11 +577,9 @@ group(type=difficulty,ID=normal;type=entity,ID=youtubers.Bomby)@chance=0.1@luck=
 /========== STRUCTURES ==========
 
 /wishing wells
-	/lucky wells
 group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#eYour wish came true! (If you like Realmstones)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=nevermine:RealmstoneAbyss,amount=12,posY='#'bPosY+10,scatterOffset=2-2;ID=nevermine:RealmstoneAncientCavern,amount=12,posY='#'bPosY+10,scatterOffset=2-2;ID=nevermine:RealmstoneBarathos,amount=12,posY='#'bPosY+10,scatterOffset=2-2)"]))@luck=1
 group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#eYour wish came true! (If you like Crystals)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=nevermine:CrystalsWhite,amount=12,posY='#'bPosY+10,scatterOffset=2-2;ID=nevermine:CrystalsGreen,amount=12,posY='#'bPosY+10,scatterOffset=2-2;ID=nevermine:CrystalsYellow,amount=12,posY='#'bPosY+10,scatterOffset=2-2)"]))@luck=1
 group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#eYour wish came true! (If you like Crystals)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=nevermine:CrystalsRed,amount=12,posY='#'bPosY+10,scatterOffset=2-2;ID=nevermine:CrystalsBlue,amount=12,posY='#'bPosY+10,scatterOffset=2-2;ID=nevermine:CrystalsPurple,amount=12,posY='#'bPosY+10,scatterOffset=2-2)"]))@luck=1
-	/unlucky wells
 group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=launched_tnt,posY='#'bPosY+7,amount=60)"]))@luck=-2
 group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=nevermine.Creep,posY='#'bPosY+7,amount=20)"]))@luck=-2
 group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName nevermine:GoldCoin 1 0 {display:{Name:\"#6Gold Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#4Your death wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=nevermine.KingCharger,posY='#'bPosY+7,amount=20)"]))@luck=-2
@@ -667,7 +650,7 @@ type=falling_block,ID=nevermine:carvedRune5@luck=0
 type=falling_block,ID=nevermine:creepCrystal@luck=0
 type=falling_block,ID=nevermine:tea@luck=0
 type=falling_block,ID=nevermine:ancientRock@luck=0
-type=falling_block,ID=youtubers:PulseBlue@luck=0
+
 
 /falling blocks (misc)
 type=falling_block,ID=youtubers:wetBeacon@luck=-1
