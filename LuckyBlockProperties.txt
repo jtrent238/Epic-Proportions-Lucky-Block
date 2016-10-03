@@ -724,6 +724,12 @@ type=message,ID=#aHerobrine left the game@luck=-1
 /jtrent238
 type=message,ID=#ajtrent238 joined the game@luck=-1
 type=message,ID=#ajtrent238 left the game@luck=-1
+type=message,ID=Hello #PlayerName@luck=0
+type=message,ID=Hello #PlayerName, its jtrent238!@luck=0
+type=message,ID=Want some FREE Diamonds?@luck=0
+type=message,ID=Free Diamonds@luck=0
+type=message,ID=#PlayerName Just Opened a LuckyBlock and got 64 Diamond Blocks and 64 Enchanted Golden Apples@luck=0
+type=message,ID=Someone Kill #PlayerName!@luck=0
 
 
 //////////=====================================//////////
