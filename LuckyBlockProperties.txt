@@ -619,6 +619,7 @@ group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you 
 
 
 
+
 /falling blocks (Spawners)
 type=falling_block,ID=nevermine:HiveSpawner@luck=-1
 type=falling_block,ID=nevermine:spawnerDawnlight@luck=-1
@@ -662,8 +663,22 @@ group(type=falling_block,ID=youtubers:ButterBlock,damage=14;type=falling_block,I
 /explosion Damage 0
 group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=0)@luck=-2
 
+/explosions
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=1)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=2)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=3)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=4)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=5)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=6)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=7)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=8)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=9)@luck=-2
+group(type=difficulty,ID=normal;type=structure,ID=explosion,damage=10)@luck=-2
+
 /chests
 type=structure,ID=chest,NBTTag=(items=[(id=youtubers:ButterBlock,maxAmount=100,weight=100)],min=8,max=100)@luck=2
+type=structure,ID=chest,NBTTag=(items=[(id=minecraft:dirt,maxAmount=100,weight=100)],min=8,max=100)@luck=-1
+
 
 /wishing wells
 group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #playerName gold_nugget 1 0 {display:{Name:\"#6Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"#eYour wish came true! (If you like Lucky Blocks)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=lucky:lucky_block,amount=128,posY='#'bPosY+10,scatterOffset=2-2;ID=lucky:lucky_block,amount=64,posY='#'bPosY+10,scatterOffset=2-2;ID=lucky:lucky_block,amount=32,posY='#'bPosY+10,scatterOffset=2-2)"]))@luck=1
